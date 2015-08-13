@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+h1 {
+  font-size: 150px;
+  font-family: 'Droid Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 100px;
+  font-family: 'Droid Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+li {
+  font-family: 'Droid Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+code {
+  font-size: 25px;
+}
