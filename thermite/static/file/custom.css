@@ -1,0 +1,21 @@
+#preso,
+.slide {
+  height: 100% !important;
+  width: 100% !important;
+  background: #1d1f21;
+}
+
+ul,
+h1,
+h2 {
+  color: #FFFFFF;
+}
+
+pre.highlight {
+  margin: 1em 40px;
+  padding-left: 30%;
+}
+
+.medium {
+  font-size: 90%;
+}

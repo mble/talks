@@ -12,7 +12,7 @@
 # ruby ≠ slow #
 
 !SLIDE
-![](http://www.unixstickers.com/image/cache/data/stickers/golang/golang.sh-600x600.png)
+![](/file/go.png)
 
 !SLIDE go
     @@@ go
@@ -46,13 +46,16 @@
       Transfer/sec:      3.50MB
 
 !SLIDE
-![](https://upload.wikimedia.org/wikipedia/en/e/ea/JRuby_logo.png)
+![](/file/jruby.png)
 
 !SLIDE
 * JRuby 9.0.0.0-pre1
 * torquebox 4.0.0.beta1
 * cuba 3.4.0
-* Java 8u51
+* Java 8u51  
+
+![](/file/torquebox.png)
+![](/file/cuba.png)
 
 !SLIDE ruby
     @@@ ruby
@@ -89,6 +92,9 @@ width=350>
 * puma 2.12.3
 * cuba 3.4.0
 
+<img src='http://www.cusd80.com/cms/lib6/AZ01001175/Centricity/Shared/Perry%20High/PerryHeadMaster_PMS.jpg' height=250 width=250>
+![](/file/cuba.png)
+
 !SLIDE bash
     @@@ bash
     $ wrk -t 2 -d 30s http://localhost:8080
@@ -111,5 +117,5 @@ width=350>
 * YMMV
 
 !SLIDE
-![](http://i1.kym-cdn.com/photos/images/original/000/506/223/2ab.gif)
+![](/file/sanic.gif)
 

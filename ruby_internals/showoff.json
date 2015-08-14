@@ -1,0 +1,6 @@
+{
+  "name": "Ruby Internals",
+  "highlight": "tomorrow-night",
+  "favicon": "favicon.ico",
+  "sections": [ {"section":"one"} ]
+}
